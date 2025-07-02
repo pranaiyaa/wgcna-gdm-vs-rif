@@ -38,7 +38,7 @@ This project analyzes gene co-expression networks in patients with Gestational D
 | Metadata handling | `tidyverse`, `readxl`, `AnnotationDbi` |
 
 
-# 📁 Repository Structure
+# Repository Structure
 wgcna-gdm-vs-rif/
 ├── data/ # Input data files (CELs, metadata, processed expression)
 │ ├── raw/ # Raw CEL files or GEO data
